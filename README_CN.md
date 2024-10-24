@@ -1,0 +1,3 @@
+# CFWord
+
+[English](./README.md)
